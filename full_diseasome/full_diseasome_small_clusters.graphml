@@ -1,0 +1,2250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="type" attr.type="string" for="node" id="type"/>
+    <key attr.name="displayName" attr.type="string" for="node" id="displayName"/>
+    <key attr.name="degree_gene" attr.type="int" for="node" id="degree_gene"/>
+    <key attr.name="icd10" attr.type="string" for="node" id="icd10"/>
+    <key attr.name="synonyms" attr.type="string" for="node" id="synonyms"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="SUID" attr.type="long" for="edge" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="edge" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="edge" id="shared interaction"/>
+    <key attr.name="type" attr.type="string" for="edge" id="type"/>
+    <key attr.name="sourceDomainId" attr.type="string" for="edge" id="sourceDomainId"/>
+    <key attr.name="targetDomainId" attr.type="string" for="edge" id="targetDomainId"/>
+    <key attr.name="List of shared genes" attr.type="string" for="edge" id="List of shared genes"/>
+    <key attr.name="#shared genes" attr.type="int" for="edge" id="#shared genes"/>
+    <key attr.name="#union genes" attr.type="int" for="edge" id="#union genes"/>
+    <key attr.name="JaccardIndex" attr.type="double" for="edge" id="JaccardIndex"/>
+    <key attr.name="name" attr.type="string" for="edge" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="edge" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="edge" id="interaction"/>
+    <key attr.name="SUID" attr.type="long" for="graph" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="graph" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="graph" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
+    <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
+    <graph edgedefault="directed" id="Gene-based Diseasome(1)">
+        <node id="226667">
+            <data key="SUID">226667</data>
+            <data key="shared name">mondo.0008962</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Griscelli syndrome type 1</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E70.3, E70</data>
+            <data key="synonyms">GS1, Griscelli syndrome type 1, Griscelli syndrome with neurological impairment, Griscelli syndrome, cutaneous and neurological type, Griscelli-PruniC)ras syndrome type 1, Griscelli-Pruniéras syndrome type 1, hypopigmentation-neurologic impairment syndrome</data>
+            <data key="name">mondo.0008962</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="217196">
+            <data key="SUID">217196</data>
+            <data key="shared name">mondo.0011872</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Griscelli syndrome type 2</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E70.3, E70</data>
+            <data key="synonyms">GS2, Griscelli syndrome type 2, Griscelli syndrome with hemophagocytic syndrome, Griscelli-PruniC)ras syndrome type 2, Griscelli-Pruniéras syndrome type 2, Griscelli-Pruni��ras syndrome type 2, PAID syndrome, hypopigmentation-immunodeficiency with or without neurologic impairment syndrome, partial albinism and immunodeficiency syndrome</data>
+            <data key="name">mondo.0011872</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="217070">
+            <data key="SUID">217070</data>
+            <data key="shared name">mondo.0010498</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">MEND syndrome</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q77.3, Q77</data>
+            <data key="synonyms">MEND syndrome, MEND syndrome, X-linked recessive, Male EBP disorder with neurological defects</data>
+            <data key="name">mondo.0010498</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="226664">
+            <data key="SUID">226664</data>
+            <data key="shared name">mondo.0012220</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Griscelli syndrome type 3</data>
+            <data key="degree_gene">2</data>
+            <data key="icd10">E70.3, E70</data>
+            <data key="synonyms">GS3, Griscelli syndrome type 3, Griscelli-PruniC)ras syndrome type 3, Griscelli-Pruniéras syndrome type 3, Griscelli-Pruni��ras syndrome type 3</data>
+            <data key="name">mondo.0012220</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="222824">
+            <data key="SUID">222824</data>
+            <data key="shared name">mondo.0017338</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">fatal multiple mitochondrial dysfunctions syndrome</data>
+            <data key="degree_gene">4</data>
+            <data key="synonyms">multiple mitochondrial dysfunctions syndrome</data>
+            <data key="name">mondo.0017338</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="216296">
+            <data key="SUID">216296</data>
+            <data key="shared name">mondo.0012720</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Krabbe disease due to saposin A deficiency</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E75, E75.2</data>
+            <data key="synonyms">Krabbe disease, atypical, Krabbe disease, atypical due to saposin A deficiency, Krabbe disease, atypical, due to saposin A deficiency</data>
+            <data key="name">mondo.0012720</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227048">
+            <data key="SUID">227048</data>
+            <data key="shared name">mondo.0060555</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">vertebral, cardiac, renal, and limb defects syndrome 2</data>
+            <data key="degree_gene">2</data>
+            <data key="synonyms">vertebral, cardiac, renal, and limb defects syndrome 2</data>
+            <data key="name">mondo.0060555</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227945">
+            <data key="SUID">227945</data>
+            <data key="shared name">mondo.0800307</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">de la Chapelle dysplasia</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">DLCD</data>
+            <data key="name">mondo.0800307</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="216419">
+            <data key="SUID">216419</data>
+            <data key="shared name">mondo.0016785</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">complete hydatidiform mole</data>
+            <data key="degree_gene">4</data>
+            <data key="synonyms">classical hydatidiform Mole, complete Mole, complete hydatid Mole, complete molar pregnancy</data>
+            <data key="name">mondo.0016785</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227939">
+            <data key="SUID">227939</data>
+            <data key="shared name">mondo.0009189</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">multiple epiphyseal dysplasia type 4</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q77.3, Q77.7, Q77</data>
+            <data key="synonyms">EDM4, MED4, Polyepiphyseal dysplasia type 4, SLC26A2 multiple epiphyseal dysplasia (disease), autosomal recessive multiple epiphyseal dysplasia, epiphyseal dysplasia, multiple, type 4, multiple epiphyseal dysplasia (disease) caused by mutation in SLC26A2, rMED</data>
+            <data key="name">mondo.0009189</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227045">
+            <data key="SUID">227045</data>
+            <data key="shared name">mondo.0060554</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">vertebral, cardiac, renal, and limb defects syndrome 1</data>
+            <data key="degree_gene">2</data>
+            <data key="synonyms">vertebral, cardiac, renal, and limb defects syndrome 1</data>
+            <data key="name">mondo.0060554</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227942">
+            <data key="SUID">227942</data>
+            <data key="shared name">mondo.0009727</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">atelosteogenesis type II</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q78, Q78.8</data>
+            <data key="synonyms">AO2, AOII, atelosteogenesis type 2, atelosteogenesis type II, neonatal osseous dysplasia type 1</data>
+            <data key="name">mondo.0009727</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224864">
+            <data key="SUID">224864</data>
+            <data key="shared name">mondo.0049223</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">osteogenesis imperfecta, type 19</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q78.0, Q78</data>
+            <data key="synonyms">osteogenesis imperfecta, type XIX, X-linked recessive</data>
+            <data key="name">mondo.0049223</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="221537">
+            <data key="SUID">221537</data>
+            <data key="shared name">mondo.0014651</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">acrofacial dysostosis Cincinnati type</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q75.1, Q75</data>
+            <data key="synonyms">POLR1A acrofacial dysostosis, acrofacial dysostosis caused by mutation in POLR1A</data>
+            <data key="name">mondo.0014651</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="222818">
+            <data key="SUID">222818</data>
+            <data key="shared name">mondo.0011582</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">multiple mitochondrial dysfunctions syndrome 1</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E88, E88.8</data>
+            <data key="synonyms">NFU1 deficiency, NFU1 fatal multiple mitochondrial dysfunctions syndrome, fatal multiple mitochondrial dysfunctions syndrome caused by mutation in NFU1, multiple mitochondrial dysfunctions syndrome 1, multiple mitochondrial dysfunctions syndrome type 1</data>
+            <data key="name">mondo.0011582</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="221531">
+            <data key="SUID">221531</data>
+            <data key="shared name">mondo.0018237</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">acrofacial dysostosis</data>
+            <data key="degree_gene">1</data>
+            <data key="name">mondo.0018237</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="216284">
+            <data key="SUID">216284</data>
+            <data key="shared name">mondo.0012517</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Gaucher disease due to saposin C deficiency</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E75, E75.2</data>
+            <data key="synonyms">Gaucher disease caused by mutation in PSAP, PSAP Gaucher disease, atypical Gaucher disease due to saposin C deficiency, atypical Gaucher's disease due to saposin c deficiency</data>
+            <data key="name">mondo.0012517</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227036">
+            <data key="SUID">227036</data>
+            <data key="shared name">mondo.0009372</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">encephalopathy due to hydroxykynureninuria</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E70.8, E70</data>
+            <data key="synonyms">Xanthurenic aciduria, kynureninase deficiency</data>
+            <data key="name">mondo.0009372</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227933">
+            <data key="SUID">227933</data>
+            <data key="shared name">mondo.0021205</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">disorder of ear</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">Ear disease, Ear disorder, disease of ear, disease or disorder of ear, disorder of ear, ear disease, ear disease or disorder</data>
+            <data key="name">mondo.0021205</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228830">
+            <data key="SUID">228830</data>
+            <data key="shared name">mondo.0060642</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">neurodevelopmental disorder with movement abnormalities, abnormal gait, and autistic features</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">F84.0, F84, F88, R26</data>
+            <data key="synonyms">neurodevelopmental disorder with movement abnormalities, abnormal gait, and autistic features</data>
+            <data key="name">mondo.0060642</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228062">
+            <data key="SUID">228062</data>
+            <data key="shared name">mondo.0012784</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">autosomal recessive ataxia due to ubiquinone deficiency</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">G11.1, G11</data>
+            <data key="synonyms">ARCA2, SCAR9, autosomal recessive ataxia due to coenzyme Q10 deficiency, autosomal recessive cerebellar ataxia type 2, autosomal recessive spinocerebellar ataxia type 9, coenzyme Q10 deficiency, primary, type 4</data>
+            <data key="name">mondo.0012784</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228824">
+            <data key="SUID">228824</data>
+            <data key="shared name">mondo.0011359</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">acromelic frontonasal dysostosis</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q75.8, Q75</data>
+            <data key="synonyms">AFND, Toriello syndrome, acromelic frontonasal dysostosis</data>
+            <data key="name">mondo.0011359</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224858">
+            <data key="SUID">224858</data>
+            <data key="shared name">mondo.0010637</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">keratosis follicularis spinulosa decalvans, X-linked</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q82, Q82.8</data>
+            <data key="synonyms">keratosis follicularis spinulosa decalvans, X-linked, keratosis follicularis spinulosa decalvans, X-linked, X-linked recessive</data>
+            <data key="name">mondo.0010637</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="216275">
+            <data key="SUID">216275</data>
+            <data key="shared name">mondo.0009590</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">metachromatic leukodystrophy due to saposin B deficiency</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E75, E75.2</data>
+            <data key="synonyms">metachromatic leukodystrophy due to sap-B deficiency, metachromatic leukodystrophy due to saposin b deficiency</data>
+            <data key="name">mondo.0009590</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224852">
+            <data key="SUID">224852</data>
+            <data key="shared name">mondo.0010486</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Olmsted syndrome, X-linked</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q82, Q82.8</data>
+            <data key="synonyms">Olmsted syndrome, X-linked, Olmsted syndrome, X-linked, X-linked recessive, palmoplantar keratoderma, mutilating, with periorificial keratotic plaques, X-linked</data>
+            <data key="name">mondo.0010486</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228815">
+            <data key="SUID">228815</data>
+            <data key="shared name">mondo.0011959</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">sweet syndrome</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">acute febrile neutrophilic dermatosis, sweet syndrome</data>
+            <data key="name">mondo.0011959</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="223055">
+            <data key="SUID">223055</data>
+            <data key="shared name">mondo.0010499</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Ritscher-Schinzel syndrome 2</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q75.8, Q04, Q04.8, Q24, Q24.8, Q75</data>
+            <data key="synonyms">CCDC22 Ritscher-Schinzel syndrome, RTSC2, Ritscher-Schinzel syndrome 2, Ritscher-Schinzel syndrome 2, X-linked recessive, Ritscher-Schinzel syndrome caused by mutation in CCDC22, Ritscher-Schinzel syndrome type 2</data>
+            <data key="name">mondo.0010499</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="219473">
+            <data key="SUID">219473</data>
+            <data key="shared name">mondo.0010555</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">X-linked chondrodysplasia punctata 1</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q77.3, Q77</data>
+            <data key="synonyms">ARSE X-linked chondrodysplasia punctata, X-linked chondrodysplasia punctata 1, X-linked chondrodysplasia punctata caused by mutation in ARSE, X-linked chondrodysplasia punctata caused by mutation in arse, arse X-linked chondrodysplasia punctata, brachytelephalangic chondrodysplasia punctata, chondrodysplasia punctata, X-linked recessive, X-linked recessive</data>
+            <data key="name">mondo.0010555</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224978">
+            <data key="SUID">224978</data>
+            <data key="shared name">mondo.0018816</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">isolated neonatal sclerosing cholangitis</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">K83</data>
+            <data key="name">mondo.0018816</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224843">
+            <data key="SUID">224843</data>
+            <data key="shared name">mondo.0018422</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">autosomal recessive spastic paraplegia type 70</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">SPG70</data>
+            <data key="name">mondo.0018422</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="215243">
+            <data key="SUID">215243</data>
+            <data key="shared name">mondo.0010005</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">saccharopinuria</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E72.3, E72</data>
+            <data key="synonyms">hyperlysinemia type II, saccharopine dehydrogenase deficiency, saccharopinuria</data>
+            <data key="name">mondo.0010005</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="219467">
+            <data key="SUID">219467</data>
+            <data key="shared name">mondo.0011238</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">chondrodysplasia punctata, brachytelephalangic, autosomal</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">chondrodysplasia punctata, brachytelephalangic, autosomal</data>
+            <data key="name">mondo.0011238</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224972">
+            <data key="SUID">224972</data>
+            <data key="shared name">mondo.0014537</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">nephronophthisis 19</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q61, Q61.5</data>
+            <data key="synonyms">DCDC2 nephronophthisis (disease), NPHP19, nephronophthisis (disease) caused by mutation in DCDC2, nephronophthisis 19, nephronophthisis type 19</data>
+            <data key="name">mondo.0014537</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="223820">
+            <data key="SUID">223820</data>
+            <data key="shared name">mondo.0018663</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">regressive spondylometaphyseal dysplasia</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q77.8, Q77</data>
+            <data key="synonyms">Pelger-Huet anomaly with mild skeletal anomalies, regressive spondylometaphyseal dysplasia</data>
+            <data key="name">mondo.0018663</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224846">
+            <data key="SUID">224846</data>
+            <data key="shared name">mondo.0019414</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">BRESEK syndrome</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">BRESHECK syndrome</data>
+            <data key="name">mondo.0019414</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224840">
+            <data key="SUID">224840</data>
+            <data key="shared name">mondo.0014206</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">severe early-onset pulmonary alveolar proteinosis due to MARS deficiency</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">J84.0, J84, K72, K72.0</data>
+            <data key="synonyms">PAP, Reunion island type, hereditary pulmonary alveolar proteinosis with hepatic involvement, interstitial lung and liver disease, pulmonary alveolar proteinosis, Reunion island type</data>
+            <data key="name">mondo.0014206</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="223562">
+            <data key="SUID">223562</data>
+            <data key="shared name">mondo.0014132</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">multiple mitochondrial dysfunctions syndrome 3</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E88, E88.8</data>
+            <data key="synonyms">IBA57 deficiency, IBA57 fatal multiple mitochondrial dysfunctions syndrome, fatal multiple mitochondrial dysfunctions syndrome caused by mutation in IBA57, multiple mitochondrial dysfunctions syndrome 3, multiple mitochondrial dysfunctions syndrome type 3</data>
+            <data key="name">mondo.0014132</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="223811">
+            <data key="SUID">223811</data>
+            <data key="shared name">mondo.0008974</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Greenberg dysplasia</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q78, Q78.9</data>
+            <data key="synonyms">Greenberg dysplasia, hem dysplasia, hydrops-ectopic calcification-motheaten syndrome, skeletal dysplasia, Greenberg type</data>
+            <data key="name">mondo.0008974</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="215237">
+            <data key="SUID">215237</data>
+            <data key="shared name">mondo.0009390</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">hyperlysinuria with hyperammonemia</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E72</data>
+            <data key="synonyms">hyperlysinuria with hyperammonemia</data>
+            <data key="name">mondo.0009390</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228038">
+            <data key="SUID">228038</data>
+            <data key="shared name">mondo.0016543</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">hyperphenylalaninemia due to tetrahydrobiopterin deficiency</data>
+            <data key="degree_gene">2</data>
+            <data key="synonyms">hyperphenylalaninemia due to BH4 deficiency, hyperphenylalaninemia due to tetrahydrobiopterin deficiency, non-phenylketonuric hyperphenylalaninemia</data>
+            <data key="name">mondo.0016543</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224966">
+            <data key="SUID">224966</data>
+            <data key="shared name">mondo.0012442</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">autosomal recessive nonsyndromic hearing loss 66</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">H90.3, H90</data>
+            <data key="name">mondo.0012442</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="215231">
+            <data key="SUID">215231</data>
+            <data key="shared name">mondo.0009388</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">hyperlysinemia</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E72.3, E72.2, E72</data>
+            <data key="synonyms">hyperlysinemia, hyperlysinemia (disease), hyperlysinemia type I, lysine alpha-ketoglutarate reductase deficiency</data>
+            <data key="name">mondo.0009388</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228032">
+            <data key="SUID">228032</data>
+            <data key="shared name">mondo.0019259</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">classic phenylketonuria</data>
+            <data key="degree_gene">2</data>
+            <data key="synonyms">classic PKU</data>
+            <data key="name">mondo.0019259</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="218048">
+            <data key="SUID">218048</data>
+            <data key="shared name">mondo.0010099</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Tay-Sachs disease AB variant</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E75, E75.0</data>
+            <data key="synonyms">Tay-Sachs disease, variant AB, hexosaminidase activator deficiency</data>
+            <data key="name">mondo.0010099</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="222785">
+            <data key="SUID">222785</data>
+            <data key="shared name">mondo.0011829</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">coenzyme Q10 deficiency, primary, 1</data>
+            <data key="degree_gene">3</data>
+            <data key="icd10">G31.8, G31</data>
+            <data key="synonyms">COQ2 coenzyme Q10 deficiency, coenzyme Q10 deficiency caused by mutation in COQ2, coenzyme Q10 deficiency, primary, 1, coenzyme Q10 deficiency, primary, type 1</data>
+            <data key="name">mondo.0011829</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="219458">
+            <data key="SUID">219458</data>
+            <data key="shared name">mondo.0019701</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">chondrodysplasia punctata</data>
+            <data key="degree_gene">2</data>
+            <data key="icd10">Q77.3</data>
+            <data key="synonyms">CDP, chondrodysplasia calcificans congenita, chondrodysplasia punctata (stippled epiphyses) Group, chondrodysplasia punctata congenita</data>
+            <data key="name">mondo.0019701</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="224828">
+            <data key="SUID">224828</data>
+            <data key="shared name">mondo.0014566</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Charcot-Marie-Tooth disease axonal type 2U</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">G60.0, G60</data>
+            <data key="synonyms">CMT2U, Charcot-Marie-Tooth disease type 2 caused by mutation in MARS, Charcot-Marie-Tooth neuropathy type 2U, MARS Charcot-Marie-Tooth disease type 2, autosomal dominant Charcot-Marie-Tooth disease type 2 due to MARS mutation, autosomal dominant Charcot-Marie-Tooth disease type 2U, autosomal dominant axonal Charcot-Marie-Tooth disease type 2U</data>
+            <data key="name">mondo.0014566</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="219581">
+            <data key="SUID">219581</data>
+            <data key="shared name">mondo.0017722</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Sandhoff disease, juvenile form</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">Hexosaminidases A and B deficiency, juvenile form, juvenile GM2 gangliosidosis 0 variant</data>
+            <data key="name">mondo.0017722</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="217655">
+            <data key="SUID">217655</data>
+            <data key="shared name">mondo.0012064</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">choanal atresia-hearing loss-cardiac defects-craniofacial dysmorphism syndrome</data>
+            <data key="degree_gene">2</data>
+            <data key="icd10">Q87.0, Q87</data>
+            <data key="synonyms">Burn-McKeown syndrome, oculootofacial dysplasia</data>
+            <data key="name">mondo.0012064</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="222776">
+            <data key="SUID">222776</data>
+            <data key="shared name">mondo.0018151</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">coenzyme Q10 deficiency</data>
+            <data key="degree_gene">3</data>
+            <data key="synonyms">CoQ10 deficiency, coenzyme Q10 deficiency disease, coenzyme Q10 deficiency, primary</data>
+            <data key="name">mondo.0018151</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="222905">
+            <data key="SUID">222905</data>
+            <data key="shared name">mondo.0016786</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">partial hydatidiform mole</data>
+            <data key="degree_gene">2</data>
+            <data key="synonyms">incomplete hydatid Mole, incomplete hydatidiform mole, incomplete molar pregnancy, partial Mole, partial hydatid Mole, partial molar pregnancy</data>
+            <data key="name">mondo.0016786</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228665">
+            <data key="SUID">228665</data>
+            <data key="shared name">mondo.0013945</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">peroxisome biogenesis disorder 9B</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">G60.1, G60</data>
+            <data key="synonyms">peroxisome biogenesis disorder 9B, peroxisome biogenesis disorder type 9B</data>
+            <data key="name">mondo.0013945</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="223802">
+            <data key="SUID">223802</data>
+            <data key="shared name">mondo.0013276</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Reynolds syndrome</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">L94, K74.3, K74, L94.0</data>
+            <data key="synonyms">Reynolds syndrome, primary biliary cirrhosis and systemic scleroderma</data>
+            <data key="name">mondo.0013276</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228026">
+            <data key="SUID">228026</data>
+            <data key="shared name">mondo.0009861</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">phenylketonuria</data>
+            <data key="degree_gene">2</data>
+            <data key="icd10">E70.2, E70, E70.0, E70.1</data>
+            <data key="synonyms">PAH deficiency, PKU, hyperphenylalaninemia, non-PKU mild, phenylalanine hydroxylase deficiency, phenylalaninemia, phenylketonuria</data>
+            <data key="name">mondo.0009861</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="222899">
+            <data key="SUID">222899</data>
+            <data key="shared name">mondo.0006248</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">hydatidiform mole</data>
+            <data key="degree_gene">2</data>
+            <data key="synonyms">hydatid mole, hydatidiform mole, molar pregnancy</data>
+            <data key="name">mondo.0006248</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="223796">
+            <data key="SUID">223796</data>
+            <data key="shared name">mondo.0008214</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Pelger-Huet anomaly</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">D72.0, D72</data>
+            <data key="synonyms">Pelger-Huet anomaly</data>
+            <data key="name">mondo.0008214</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="218036">
+            <data key="SUID">218036</data>
+            <data key="shared name">mondo.0010100</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Tay-Sachs disease</data>
+            <data key="degree_gene">2</data>
+            <data key="icd10">E75, E75.0</data>
+            <data key="synonyms">GM2 gangliosidosis, B, B1 variant, GM2-gangliosidosis, several forms, Hex A pseudodeficiency, Tay-Sachs disease, disease, Tay-Sachs, hexosaminidase A deficiency</data>
+            <data key="name">mondo.0010100</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228662">
+            <data key="SUID">228662</data>
+            <data key="shared name">mondo.0008972</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">rhizomelic chondrodysplasia punctata type 1</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q77.3, Q77</data>
+            <data key="synonyms">PEX7 rhizomelic chondrodysplasia punctata, Pbd9, Rcdp1, peroxisome biogenesis disorder 9, rhizomelic chondrodysplasia punctata caused by mutation in PEX7, rhizomelic chondrodysplasia punctata type 1, rhizomelic chondrodysplasia punctata, type 1</data>
+            <data key="name">mondo.0008972</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="222767">
+            <data key="SUID">222767</data>
+            <data key="shared name">mondo.0007803</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">multiple system atrophy</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">MSA, Shy-Drager syndrome, multisystem atrophy</data>
+            <data key="name">mondo.0007803</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228656">
+            <data key="SUID">228656</data>
+            <data key="shared name">mondo.0015776</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">rhizomelic chondrodysplasia punctata</data>
+            <data key="degree_gene">3</data>
+            <data key="synonyms">RCDP, chondrodysplasia punctata, rhizomelic form, rhizomelic chondrodysplasia punctata, rhizomelic chondrodysplasia punctata syndrome, rhizomelic dwarfism</data>
+            <data key="name">mondo.0015776</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="219569">
+            <data key="SUID">219569</data>
+            <data key="shared name">mondo.0017721</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Sandhoff disease, infantile form</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">Hexosaminidases A and B deficiency, infantile form, infantile GM2 gangliosidosis 0 variant</data>
+            <data key="name">mondo.0017721</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="225842">
+            <data key="SUID">225842</data>
+            <data key="shared name">mondo.0013675</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">multiple mitochondrial dysfunctions syndrome 2</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E88, E88.8</data>
+            <data key="synonyms">BOLA3 deficiency, BOLA3 fatal multiple mitochondrial dysfunctions syndrome, fatal multiple mitochondrial dysfunctions syndrome caused by mutation in BOLA3, multiple mitochondrial dysfunctions syndrome 2, multiple mitochondrial dysfunctions syndrome type 2</data>
+            <data key="name">mondo.0013675</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="219563">
+            <data key="SUID">219563</data>
+            <data key="shared name">mondo.0017723</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Sandhoff disease, adult form</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">Hexosaminidases A and B deficiency, adult form, Sandhoff disease of adults, adult GM2 gangliosidosis 0 variant, adult Sandhoff disease</data>
+            <data key="name">mondo.0017723</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="222764">
+            <data key="SUID">222764</data>
+            <data key="shared name">mondo.0003122</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">striatonigral degeneration</data>
+            <data key="degree_gene">1</data>
+            <data key="name">mondo.0003122</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="226349">
+            <data key="SUID">226349</data>
+            <data key="shared name">mondo.0016239</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">cystinosis</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">Protein defect of cystin transport, cystine storage disease, cystinosis</data>
+            <data key="name">mondo.0016239</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="226343">
+            <data key="SUID">226343</data>
+            <data key="shared name">mondo.0100151</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">nephropathic cystinosis</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">N16.3, E72, N16</data>
+            <data key="synonyms">Abderhalden Kaufmann Lignac syndrome, Abderhalden Lignac Kaufmann disease, Abderhalden-Kaufmann-Lignac syndrome, Abderhalden-Lignac-Kaufmann disease, CTNS, cystinosis, atypical nephropathic, cystinosis, nephropathic</data>
+            <data key="name">mondo.0100151</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="223523">
+            <data key="SUID">223523</data>
+            <data key="shared name">mondo.0009273</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">hydatidiform mole, recurrent, 1</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">O01, O01.9</data>
+            <data key="synonyms">NLRP7 complete hydatidiform mole, complete hydatidiform mole caused by mutation in NLRP7, hydatidiform Mole, recurrent, type 1, hydatidiform mole, recurrent, 1</data>
+            <data key="name">mondo.0009273</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="226340">
+            <data key="SUID">226340</data>
+            <data key="shared name">mondo.0009064</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">ocular cystinosis</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E72.0, E72</data>
+            <data key="synonyms">adult-onset cystinosis, non-nephropathic cystinosis, ocular cystinosis</data>
+            <data key="name">mondo.0009064</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="219557">
+            <data key="SUID">219557</data>
+            <data key="shared name">mondo.0010006</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Sandhoff disease</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E75, E75.0</data>
+            <data key="synonyms">GM2 gangliosidosis 0 variant, Hexosaminidases A and B deficiency, Sandhoff Jatzkewitz disease, Sandhoff disease, Sandhoff disease, infantile, juvenile, and adult forms</data>
+            <data key="name">mondo.0010006</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="226337">
+            <data key="SUID">226337</data>
+            <data key="shared name">mondo.0009066</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">juvenile nephropathic cystinosis</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">N16.3, E72, N16</data>
+            <data key="synonyms">cystinosis, late-onset juvenile or adolescent nephropathic, intermediate cystinosis, juvenile cystinosis, juvenile nephropathic cystinosis</data>
+            <data key="name">mondo.0009066</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="219554">
+            <data key="SUID">219554</data>
+            <data key="shared name">mondo.0017726</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Tay-Sachs disease, B variant, adult form</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">GM2 gangliosidosis, B variant, adult form, hexosaminidase A deficiency, adult form</data>
+            <data key="name">mondo.0017726</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="225692">
+            <data key="SUID">225692</data>
+            <data key="shared name">mondo.0009112</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">rhizomelic chondrodysplasia punctata type 2</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q77.3, Q77</data>
+            <data key="synonyms">Dhapat deficiency, Dihydroxyacetonephosphate acyltransferase deficiency, GNPAT rhizomelic chondrodysplasia punctata, Glyceronephosphate O-acyltransferase deficiency, Gnpat deficiency, Rcdp2, chondrodysplasia punctata, rhizomelic, due to Dihydroxyacetonephosphate acyltransferase deficiency, peroxisomal dihydroxyacetonephosphate acyltransferase deficiency, rhizomelic chondrodysplasia punctata caused by mutation in GNPAT, rhizomelic chondrodysplasia punctata type 2, rhizomelic chondrodysplasia punctata, type 2, type 2 rhizomelic chondrodysplasia punctata</data>
+            <data key="name">mondo.0009112</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="225944">
+            <data key="SUID">225944</data>
+            <data key="shared name">mondo.0010823</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">rhizomelic chondrodysplasia punctata type 3</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q77.3, Q77</data>
+            <data key="synonyms">AGPS rhizomelic chondrodysplasia punctata, RCDP3, rhizomelic chondrodysplasia punctata caused by mutation in AGPS, rhizomelic chondrodysplasia punctata type 3</data>
+            <data key="name">mondo.0010823</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="225935">
+            <data key="SUID">225935</data>
+            <data key="shared name">mondo.0006596</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">photoallergic dermatitis</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">photoallergic contact dermatitis, photoallergic eczema</data>
+            <data key="name">mondo.0006596</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="221441">
+            <data key="SUID">221441</data>
+            <data key="shared name">mondo.0014611</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">multiple mitochondrial dysfunctions syndrome 4</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E88, E88.8</data>
+            <data key="synonyms">ISCA2 fatal multiple mitochondrial dysfunctions syndrome, fatal multiple mitochondrial dysfunctions syndrome caused by mutation in ISCA2, multiple mitochondrial dysfunctions syndrome 4, multiple mitochondrial dysfunctions syndrome type 4</data>
+            <data key="name">mondo.0014611</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227969">
+            <data key="SUID">227969</data>
+            <data key="shared name">mondo.0009955</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">rapadilino syndrome</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q30.8, Q38, Q87.2, Q30, Q38.5, Q87</data>
+            <data key="synonyms">rapadilino syndrome</data>
+            <data key="name">mondo.0009955</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227963">
+            <data key="SUID">227963</data>
+            <data key="shared name">mondo.0010002</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Rothmund-Thomson syndrome</data>
+            <data key="degree_gene">1</data>
+            <data key="synonyms">RTS, Rothmund-Thomson syndrome, congenital poikiloderma, poikiloderma of Rothmund-Thomson</data>
+            <data key="name">mondo.0010002</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="229115">
+            <data key="SUID">229115</data>
+            <data key="shared name">mondo.0011339</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">hereditary spastic paraplegia 8</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">G11, G11.4</data>
+            <data key="synonyms">SPG8, WASHC5 hereditary spastic paraplegia, autosomal dominant spastic paraplegia 8, autosomal dominant spastic paraplegia type 8, hereditary spastic paraplegia caused by mutation in WASHC5, hereditary spastic paraplegia type 8</data>
+            <data key="name">mondo.0011339</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="227966">
+            <data key="SUID">227966</data>
+            <data key="shared name">mondo.0009039</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Baller-Gerold syndrome</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">Q87.0, Q75.0, Q75, Q87</data>
+            <data key="synonyms">Baller-Gerold syndrome</data>
+            <data key="name">mondo.0009039</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="228083">
+            <data key="SUID">228083</data>
+            <data key="shared name">mondo.0013840</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E88, E88.8</data>
+            <data key="synonyms">coenzyme Q10 deficiency, primary, type 5</data>
+            <data key="name">mondo.0013840</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="226676">
+            <data key="SUID">226676</data>
+            <data key="shared name">mondo.0008709</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">acrocephalopolydactyly</data>
+            <data key="degree_gene">2</data>
+            <data key="synonyms">Elejalde syndrome, acrocephalopolydactylous dysplasia</data>
+            <data key="name">mondo.0008709</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="229109">
+            <data key="SUID">229109</data>
+            <data key="shared name">mondo.0019078</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">Ritscher-Schinzel syndrome</data>
+            <data key="degree_gene">2</data>
+            <data key="synonyms">3C syndrome, CCC dysplasia, Craniocerebellocardiac dysplasia, Ritscher-Schinzel syndrome, craniocerebellocardiac dysplasia</data>
+            <data key="name">mondo.0019078</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="216305">
+            <data key="SUID">216305</data>
+            <data key="shared name">mondo.0012719</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">combined PSAP deficiency</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">E75, E75.2</data>
+            <data key="synonyms">combined prosaposin deficiency, encephalopathy due to prosaposin deficiency</data>
+            <data key="name">mondo.0012719</data>
+            <data key="selected">false</data>
+        </node>
+        <node id="226673">
+            <data key="SUID">226673</data>
+            <data key="shared name">mondo.0009742</data>
+            <data key="type">Disorder</data>
+            <data key="displayName">neuroectodermal melanolysosomal disease</data>
+            <data key="degree_gene">1</data>
+            <data key="icd10">L81.4, L81</data>
+            <data key="synonyms">Elejalde disease, neuroectodermal melanolysosomal disease</data>
+            <data key="name">mondo.0009742</data>
+            <data key="selected">false</data>
+        </node>
+        <edge source="226667" target="226673">
+            <data key="SUID">493712</data>
+            <data key="shared name">mondo.0008962 (-) mondo.0009742</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0008962</data>
+            <data key="targetDomainId">mondo.0009742</data>
+            <data key="List of shared genes">entrez.4644, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0008962 (-) mondo.0009742</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226667" target="226676">
+            <data key="SUID">493715</data>
+            <data key="shared name">mondo.0008962 (-) mondo.0008709</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0008962</data>
+            <data key="targetDomainId">mondo.0008709</data>
+            <data key="List of shared genes">entrez.4644, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0008962 (-) mondo.0008709</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="217070" target="219458">
+            <data key="SUID">492257</data>
+            <data key="shared name">mondo.0010498 (-) mondo.0019701</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010498</data>
+            <data key="targetDomainId">mondo.0019701</data>
+            <data key="List of shared genes">entrez.10682, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0010498 (-) mondo.0019701</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226664" target="226667">
+            <data key="SUID">493703</data>
+            <data key="shared name">mondo.0012220 (-) mondo.0008962</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012220</data>
+            <data key="targetDomainId">mondo.0008962</data>
+            <data key="List of shared genes">entrez.4644, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0012220 (-) mondo.0008962</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226664" target="226673">
+            <data key="SUID">493706</data>
+            <data key="shared name">mondo.0012220 (-) mondo.0009742</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012220</data>
+            <data key="targetDomainId">mondo.0009742</data>
+            <data key="List of shared genes">entrez.4644, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0012220 (-) mondo.0009742</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226664" target="226676">
+            <data key="SUID">493709</data>
+            <data key="shared name">mondo.0012220 (-) mondo.0008709</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012220</data>
+            <data key="targetDomainId">mondo.0008709</data>
+            <data key="List of shared genes">entrez.4644, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0012220 (-) mondo.0008709</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222824" target="223562">
+            <data key="SUID">508901</data>
+            <data key="shared name">mondo.0017338 (-) mondo.0014132</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0017338</data>
+            <data key="targetDomainId">mondo.0014132</data>
+            <data key="List of shared genes">entrez.200205, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">4</data>
+            <data key="JaccardIndex">0.25</data>
+            <data key="name">mondo.0017338 (-) mondo.0014132</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222824" target="221441">
+            <data key="SUID">508775</data>
+            <data key="shared name">mondo.0017338 (-) mondo.0014611</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0017338</data>
+            <data key="targetDomainId">mondo.0014611</data>
+            <data key="List of shared genes">entrez.122961, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">4</data>
+            <data key="JaccardIndex">0.25</data>
+            <data key="name">mondo.0017338 (-) mondo.0014611</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222824" target="222818">
+            <data key="SUID">507920</data>
+            <data key="shared name">mondo.0017338 (-) mondo.0011582</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0017338</data>
+            <data key="targetDomainId">mondo.0011582</data>
+            <data key="List of shared genes">entrez.27247, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">4</data>
+            <data key="JaccardIndex">0.25</data>
+            <data key="name">mondo.0017338 (-) mondo.0011582</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="216296" target="216305">
+            <data key="SUID">499583</data>
+            <data key="shared name">mondo.0012720 (-) mondo.0012719</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012720</data>
+            <data key="targetDomainId">mondo.0012719</data>
+            <data key="List of shared genes">entrez.5660, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0012720 (-) mondo.0012719</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="216296" target="216284">
+            <data key="SUID">499568</data>
+            <data key="shared name">mondo.0012720 (-) mondo.0012517</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012720</data>
+            <data key="targetDomainId">mondo.0012517</data>
+            <data key="List of shared genes">entrez.5660, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0012720 (-) mondo.0012517</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="216296" target="216275">
+            <data key="SUID">499565</data>
+            <data key="shared name">mondo.0012720 (-) mondo.0009590</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012720</data>
+            <data key="targetDomainId">mondo.0009590</data>
+            <data key="List of shared genes">entrez.5660, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0012720 (-) mondo.0009590</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227048" target="227036">
+            <data key="SUID">506099</data>
+            <data key="shared name">mondo.0060555 (-) mondo.0009372</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0060555</data>
+            <data key="targetDomainId">mondo.0009372</data>
+            <data key="List of shared genes">entrez.8942, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0060555 (-) mondo.0009372</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227945" target="227942">
+            <data key="SUID">440510</data>
+            <data key="shared name">mondo.0800307 (-) mondo.0009727</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0800307</data>
+            <data key="targetDomainId">mondo.0009727</data>
+            <data key="List of shared genes">entrez.1836, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0800307 (-) mondo.0009727</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227945" target="227939">
+            <data key="SUID">440498</data>
+            <data key="shared name">mondo.0800307 (-) mondo.0009189</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0800307</data>
+            <data key="targetDomainId">mondo.0009189</data>
+            <data key="List of shared genes">entrez.1836, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0800307 (-) mondo.0009189</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227945" target="227933">
+            <data key="SUID">440480</data>
+            <data key="shared name">mondo.0800307 (-) mondo.0021205</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0800307</data>
+            <data key="targetDomainId">mondo.0021205</data>
+            <data key="List of shared genes">entrez.1836, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0800307 (-) mondo.0021205</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="216419" target="223523">
+            <data key="SUID">509198</data>
+            <data key="shared name">mondo.0016785 (-) mondo.0009273</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0016785</data>
+            <data key="targetDomainId">mondo.0009273</data>
+            <data key="List of shared genes">entrez.199713, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">4</data>
+            <data key="JaccardIndex">0.25</data>
+            <data key="name">mondo.0016785 (-) mondo.0009273</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="216419" target="222905">
+            <data key="SUID">509177</data>
+            <data key="shared name">mondo.0016785 (-) mondo.0016786</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0016785</data>
+            <data key="targetDomainId">mondo.0016786</data>
+            <data key="List of shared genes">entrez.154288, entrez.199713, </data>
+            <data key="#shared genes">2</data>
+            <data key="#union genes">4</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0016785 (-) mondo.0016786</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="216419" target="222899">
+            <data key="SUID">509174</data>
+            <data key="shared name">mondo.0016785 (-) mondo.0006248</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0016785</data>
+            <data key="targetDomainId">mondo.0006248</data>
+            <data key="List of shared genes">entrez.154288, entrez.199713, </data>
+            <data key="#shared genes">2</data>
+            <data key="#union genes">4</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0016785 (-) mondo.0006248</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227939" target="227942">
+            <data key="SUID">440483</data>
+            <data key="shared name">mondo.0009189 (-) mondo.0009727</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0009189</data>
+            <data key="targetDomainId">mondo.0009727</data>
+            <data key="List of shared genes">entrez.1836, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0009189 (-) mondo.0009727</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227045" target="227036">
+            <data key="SUID">506093</data>
+            <data key="shared name">mondo.0060554 (-) mondo.0009372</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0060554</data>
+            <data key="targetDomainId">mondo.0009372</data>
+            <data key="List of shared genes">entrez.8942, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0060554 (-) mondo.0009372</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227045" target="227048">
+            <data key="SUID">506105</data>
+            <data key="shared name">mondo.0060554 (-) mondo.0060555</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0060554</data>
+            <data key="targetDomainId">mondo.0060555</data>
+            <data key="List of shared genes">entrez.23498, entrez.8942, </data>
+            <data key="#shared genes">2</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0060554 (-) mondo.0060555</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="221531" target="221537">
+            <data key="SUID">507758</data>
+            <data key="shared name">mondo.0018237 (-) mondo.0014651</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0018237</data>
+            <data key="targetDomainId">mondo.0014651</data>
+            <data key="List of shared genes">entrez.25885, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0018237 (-) mondo.0014651</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227933" target="227942">
+            <data key="SUID">440462</data>
+            <data key="shared name">mondo.0021205 (-) mondo.0009727</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0021205</data>
+            <data key="targetDomainId">mondo.0009727</data>
+            <data key="List of shared genes">entrez.1836, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0021205 (-) mondo.0009727</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227933" target="227939">
+            <data key="SUID">440438</data>
+            <data key="shared name">mondo.0021205 (-) mondo.0009189</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0021205</data>
+            <data key="targetDomainId">mondo.0009189</data>
+            <data key="List of shared genes">entrez.1836, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0021205 (-) mondo.0009189</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228062" target="222776">
+            <data key="SUID">508298</data>
+            <data key="shared name">mondo.0012784 (-) mondo.0018151</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012784</data>
+            <data key="targetDomainId">mondo.0018151</data>
+            <data key="List of shared genes">entrez.56997, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0012784 (-) mondo.0018151</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228062" target="222785">
+            <data key="SUID">508301</data>
+            <data key="shared name">mondo.0012784 (-) mondo.0011829</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012784</data>
+            <data key="targetDomainId">mondo.0011829</data>
+            <data key="List of shared genes">entrez.56997, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0012784 (-) mondo.0011829</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228824" target="228830">
+            <data key="SUID">508772</data>
+            <data key="shared name">mondo.0011359 (-) mondo.0060642</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0011359</data>
+            <data key="targetDomainId">mondo.0060642</data>
+            <data key="List of shared genes">entrez.57688, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0011359 (-) mondo.0060642</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224858" target="224864">
+            <data key="SUID">508184</data>
+            <data key="shared name">mondo.0010637 (-) mondo.0049223</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010637</data>
+            <data key="targetDomainId">mondo.0049223</data>
+            <data key="List of shared genes">entrez.51360, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0010637 (-) mondo.0049223</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="216275" target="216284">
+            <data key="SUID">499562</data>
+            <data key="shared name">mondo.0009590 (-) mondo.0012517</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0009590</data>
+            <data key="targetDomainId">mondo.0012517</data>
+            <data key="List of shared genes">entrez.5660, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0009590 (-) mondo.0012517</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224852" target="224858">
+            <data key="SUID">508178</data>
+            <data key="shared name">mondo.0010486 (-) mondo.0010637</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010486</data>
+            <data key="targetDomainId">mondo.0010637</data>
+            <data key="List of shared genes">entrez.51360, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0010486 (-) mondo.0010637</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224852" target="224864">
+            <data key="SUID">508181</data>
+            <data key="shared name">mondo.0010486 (-) mondo.0049223</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010486</data>
+            <data key="targetDomainId">mondo.0049223</data>
+            <data key="List of shared genes">entrez.51360, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0010486 (-) mondo.0049223</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228815" target="228830">
+            <data key="SUID">508769</data>
+            <data key="shared name">mondo.0011959 (-) mondo.0060642</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0011959</data>
+            <data key="targetDomainId">mondo.0060642</data>
+            <data key="List of shared genes">entrez.57688, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0011959 (-) mondo.0060642</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228815" target="228824">
+            <data key="SUID">508766</data>
+            <data key="shared name">mondo.0011959 (-) mondo.0011359</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0011959</data>
+            <data key="targetDomainId">mondo.0011359</data>
+            <data key="List of shared genes">entrez.57688, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0011959 (-) mondo.0011359</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="223055" target="229109">
+            <data key="SUID">507413</data>
+            <data key="shared name">mondo.0010499 (-) mondo.0019078</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010499</data>
+            <data key="targetDomainId">mondo.0019078</data>
+            <data key="List of shared genes">entrez.28952, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0010499 (-) mondo.0019078</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="219473" target="219467">
+            <data key="SUID">336032</data>
+            <data key="shared name">mondo.0010555 (-) mondo.0011238</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010555</data>
+            <data key="targetDomainId">mondo.0011238</data>
+            <data key="List of shared genes">entrez.415, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0010555 (-) mondo.0011238</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="219473" target="219458">
+            <data key="SUID">335954</data>
+            <data key="shared name">mondo.0010555 (-) mondo.0019701</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010555</data>
+            <data key="targetDomainId">mondo.0019701</data>
+            <data key="List of shared genes">entrez.415, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0010555 (-) mondo.0019701</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224978" target="224966">
+            <data key="SUID">508202</data>
+            <data key="shared name">mondo.0018816 (-) mondo.0012442</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0018816</data>
+            <data key="targetDomainId">mondo.0012442</data>
+            <data key="List of shared genes">entrez.51473, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0018816 (-) mondo.0012442</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224978" target="224972">
+            <data key="SUID">508205</data>
+            <data key="shared name">mondo.0018816 (-) mondo.0014537</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0018816</data>
+            <data key="targetDomainId">mondo.0014537</data>
+            <data key="List of shared genes">entrez.51473, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0018816 (-) mondo.0014537</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="215243" target="215237">
+            <data key="SUID">506921</data>
+            <data key="shared name">mondo.0010005 (-) mondo.0009390</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010005</data>
+            <data key="targetDomainId">mondo.0009390</data>
+            <data key="List of shared genes">entrez.10157, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0010005 (-) mondo.0009390</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="215243" target="215231">
+            <data key="SUID">506915</data>
+            <data key="shared name">mondo.0010005 (-) mondo.0009388</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010005</data>
+            <data key="targetDomainId">mondo.0009388</data>
+            <data key="List of shared genes">entrez.10157, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0010005 (-) mondo.0009388</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="223820" target="223811">
+            <data key="SUID">488924</data>
+            <data key="shared name">mondo.0018663 (-) mondo.0008974</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0018663</data>
+            <data key="targetDomainId">mondo.0008974</data>
+            <data key="List of shared genes">entrez.3930, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0018663 (-) mondo.0008974</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="223820" target="223802">
+            <data key="SUID">488918</data>
+            <data key="shared name">mondo.0018663 (-) mondo.0013276</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0018663</data>
+            <data key="targetDomainId">mondo.0013276</data>
+            <data key="List of shared genes">entrez.3930, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0018663 (-) mondo.0013276</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="223820" target="223796">
+            <data key="SUID">488906</data>
+            <data key="shared name">mondo.0018663 (-) mondo.0008214</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0018663</data>
+            <data key="targetDomainId">mondo.0008214</data>
+            <data key="List of shared genes">entrez.3930, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0018663 (-) mondo.0008214</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224846" target="224864">
+            <data key="SUID">508175</data>
+            <data key="shared name">mondo.0019414 (-) mondo.0049223</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0019414</data>
+            <data key="targetDomainId">mondo.0049223</data>
+            <data key="List of shared genes">entrez.51360, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0019414 (-) mondo.0049223</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224846" target="224852">
+            <data key="SUID">508169</data>
+            <data key="shared name">mondo.0019414 (-) mondo.0010486</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0019414</data>
+            <data key="targetDomainId">mondo.0010486</data>
+            <data key="List of shared genes">entrez.51360, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0019414 (-) mondo.0010486</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224846" target="224858">
+            <data key="SUID">508172</data>
+            <data key="shared name">mondo.0019414 (-) mondo.0010637</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0019414</data>
+            <data key="targetDomainId">mondo.0010637</data>
+            <data key="List of shared genes">entrez.51360, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0019414 (-) mondo.0010637</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224840" target="224843">
+            <data key="SUID">490718</data>
+            <data key="shared name">mondo.0014206 (-) mondo.0018422</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0014206</data>
+            <data key="targetDomainId">mondo.0018422</data>
+            <data key="List of shared genes">entrez.4141, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0014206 (-) mondo.0018422</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224966" target="224972">
+            <data key="SUID">508199</data>
+            <data key="shared name">mondo.0012442 (-) mondo.0014537</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012442</data>
+            <data key="targetDomainId">mondo.0014537</data>
+            <data key="List of shared genes">entrez.51473, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0012442 (-) mondo.0014537</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="215231" target="215237">
+            <data key="SUID">506909</data>
+            <data key="shared name">mondo.0009388 (-) mondo.0009390</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0009388</data>
+            <data key="targetDomainId">mondo.0009390</data>
+            <data key="List of shared genes">entrez.10157, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0009388 (-) mondo.0009390</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228032" target="228038">
+            <data key="SUID">495872</data>
+            <data key="shared name">mondo.0019259 (-) mondo.0016543</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0019259</data>
+            <data key="targetDomainId">mondo.0016543</data>
+            <data key="List of shared genes">entrez.5053, entrez.5860, </data>
+            <data key="#shared genes">2</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0019259 (-) mondo.0016543</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222785" target="228083">
+            <data key="SUID">508316</data>
+            <data key="shared name">mondo.0011829 (-) mondo.0013840</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0011829</data>
+            <data key="targetDomainId">mondo.0013840</data>
+            <data key="List of shared genes">entrez.57017, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0011829 (-) mondo.0013840</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222785" target="222764">
+            <data key="SUID">507905</data>
+            <data key="shared name">mondo.0011829 (-) mondo.0003122</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0011829</data>
+            <data key="targetDomainId">mondo.0003122</data>
+            <data key="List of shared genes">entrez.27235, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0011829 (-) mondo.0003122</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="219458" target="219467">
+            <data key="SUID">335867</data>
+            <data key="shared name">mondo.0019701 (-) mondo.0011238</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0019701</data>
+            <data key="targetDomainId">mondo.0011238</data>
+            <data key="List of shared genes">entrez.415, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0019701 (-) mondo.0011238</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224828" target="224843">
+            <data key="SUID">490709</data>
+            <data key="shared name">mondo.0014566 (-) mondo.0018422</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0014566</data>
+            <data key="targetDomainId">mondo.0018422</data>
+            <data key="List of shared genes">entrez.4141, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0014566 (-) mondo.0018422</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="224828" target="224840">
+            <data key="SUID">490700</data>
+            <data key="shared name">mondo.0014566 (-) mondo.0014206</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0014566</data>
+            <data key="targetDomainId">mondo.0014206</data>
+            <data key="List of shared genes">entrez.4141, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0014566 (-) mondo.0014206</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="219581" target="219563">
+            <data key="SUID">477278</data>
+            <data key="shared name">mondo.0017722 (-) mondo.0017723</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0017722</data>
+            <data key="targetDomainId">mondo.0017723</data>
+            <data key="List of shared genes">entrez.3074, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0017722 (-) mondo.0017723</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="219581" target="219557">
+            <data key="SUID">477260</data>
+            <data key="shared name">mondo.0017722 (-) mondo.0010006</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0017722</data>
+            <data key="targetDomainId">mondo.0010006</data>
+            <data key="List of shared genes">entrez.3074, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0017722 (-) mondo.0010006</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="217655" target="221531">
+            <data key="SUID">507467</data>
+            <data key="shared name">mondo.0012064 (-) mondo.0018237</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012064</data>
+            <data key="targetDomainId">mondo.0018237</data>
+            <data key="List of shared genes">entrez.25885, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0012064 (-) mondo.0018237</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="217655" target="221537">
+            <data key="SUID">507470</data>
+            <data key="shared name">mondo.0012064 (-) mondo.0014651</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012064</data>
+            <data key="targetDomainId">mondo.0014651</data>
+            <data key="List of shared genes">entrez.25885, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0012064 (-) mondo.0014651</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222776" target="228083">
+            <data key="SUID">508310</data>
+            <data key="shared name">mondo.0018151 (-) mondo.0013840</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0018151</data>
+            <data key="targetDomainId">mondo.0013840</data>
+            <data key="List of shared genes">entrez.57017, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0018151 (-) mondo.0013840</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222776" target="222785">
+            <data key="SUID">507911</data>
+            <data key="shared name">mondo.0018151 (-) mondo.0011829</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0018151</data>
+            <data key="targetDomainId">mondo.0011829</data>
+            <data key="List of shared genes">entrez.57017, entrez.27235, entrez.56997, </data>
+            <data key="#shared genes">3</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0018151 (-) mondo.0011829</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222776" target="222764">
+            <data key="SUID">507899</data>
+            <data key="shared name">mondo.0018151 (-) mondo.0003122</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0018151</data>
+            <data key="targetDomainId">mondo.0003122</data>
+            <data key="List of shared genes">entrez.27235, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0018151 (-) mondo.0003122</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222905" target="223523">
+            <data key="SUID">509294</data>
+            <data key="shared name">mondo.0016786 (-) mondo.0009273</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0016786</data>
+            <data key="targetDomainId">mondo.0009273</data>
+            <data key="List of shared genes">entrez.199713, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0016786 (-) mondo.0009273</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="223802" target="223811">
+            <data key="SUID">488909</data>
+            <data key="shared name">mondo.0013276 (-) mondo.0008974</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0013276</data>
+            <data key="targetDomainId">mondo.0008974</data>
+            <data key="List of shared genes">entrez.3930, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0013276 (-) mondo.0008974</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228026" target="228038">
+            <data key="SUID">495869</data>
+            <data key="shared name">mondo.0009861 (-) mondo.0016543</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0009861</data>
+            <data key="targetDomainId">mondo.0016543</data>
+            <data key="List of shared genes">entrez.5053, entrez.5860, </data>
+            <data key="#shared genes">2</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0009861 (-) mondo.0016543</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228026" target="228032">
+            <data key="SUID">495860</data>
+            <data key="shared name">mondo.0009861 (-) mondo.0019259</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0009861</data>
+            <data key="targetDomainId">mondo.0019259</data>
+            <data key="List of shared genes">entrez.5053, entrez.5860, </data>
+            <data key="#shared genes">2</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0009861 (-) mondo.0019259</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222899" target="223523">
+            <data key="SUID">509291</data>
+            <data key="shared name">mondo.0006248 (-) mondo.0009273</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0006248</data>
+            <data key="targetDomainId">mondo.0009273</data>
+            <data key="List of shared genes">entrez.199713, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0006248 (-) mondo.0009273</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222899" target="222905">
+            <data key="SUID">509267</data>
+            <data key="shared name">mondo.0006248 (-) mondo.0016786</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0006248</data>
+            <data key="targetDomainId">mondo.0016786</data>
+            <data key="List of shared genes">entrez.154288, entrez.199713, </data>
+            <data key="#shared genes">2</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0006248 (-) mondo.0016786</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="223796" target="223811">
+            <data key="SUID">488894</data>
+            <data key="shared name">mondo.0008214 (-) mondo.0008974</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0008214</data>
+            <data key="targetDomainId">mondo.0008974</data>
+            <data key="List of shared genes">entrez.3930, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0008214 (-) mondo.0008974</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="223796" target="223802">
+            <data key="SUID">488885</data>
+            <data key="shared name">mondo.0008214 (-) mondo.0013276</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0008214</data>
+            <data key="targetDomainId">mondo.0013276</data>
+            <data key="List of shared genes">entrez.3930, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0008214 (-) mondo.0013276</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="218036" target="218048">
+            <data key="SUID">469859</data>
+            <data key="shared name">mondo.0010100 (-) mondo.0010099</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010100</data>
+            <data key="targetDomainId">mondo.0010099</data>
+            <data key="List of shared genes">entrez.2760, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0010100 (-) mondo.0010099</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="218036" target="219554">
+            <data key="SUID">473363</data>
+            <data key="shared name">mondo.0010100 (-) mondo.0017726</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010100</data>
+            <data key="targetDomainId">mondo.0017726</data>
+            <data key="List of shared genes">entrez.3073, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0010100 (-) mondo.0017726</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228662" target="228665">
+            <data key="SUID">496700</data>
+            <data key="shared name">mondo.0008972 (-) mondo.0013945</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0008972</data>
+            <data key="targetDomainId">mondo.0013945</data>
+            <data key="List of shared genes">entrez.5191, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0008972 (-) mondo.0013945</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222767" target="222785">
+            <data key="SUID">507908</data>
+            <data key="shared name">mondo.0007803 (-) mondo.0011829</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0007803</data>
+            <data key="targetDomainId">mondo.0011829</data>
+            <data key="List of shared genes">entrez.27235, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0007803 (-) mondo.0011829</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222767" target="222764">
+            <data key="SUID">507896</data>
+            <data key="shared name">mondo.0007803 (-) mondo.0003122</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0007803</data>
+            <data key="targetDomainId">mondo.0003122</data>
+            <data key="List of shared genes">entrez.27235, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0007803 (-) mondo.0003122</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="222767" target="222776">
+            <data key="SUID">507902</data>
+            <data key="shared name">mondo.0007803 (-) mondo.0018151</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0007803</data>
+            <data key="targetDomainId">mondo.0018151</data>
+            <data key="List of shared genes">entrez.27235, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0007803 (-) mondo.0018151</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228656" target="225935">
+            <data key="SUID">502892</data>
+            <data key="shared name">mondo.0015776 (-) mondo.0006596</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0015776</data>
+            <data key="targetDomainId">mondo.0006596</data>
+            <data key="List of shared genes">entrez.8540, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0015776 (-) mondo.0006596</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228656" target="228665">
+            <data key="SUID">496691</data>
+            <data key="shared name">mondo.0015776 (-) mondo.0013945</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0015776</data>
+            <data key="targetDomainId">mondo.0013945</data>
+            <data key="List of shared genes">entrez.5191, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0015776 (-) mondo.0013945</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228656" target="228662">
+            <data key="SUID">496682</data>
+            <data key="shared name">mondo.0015776 (-) mondo.0008972</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0015776</data>
+            <data key="targetDomainId">mondo.0008972</data>
+            <data key="List of shared genes">entrez.5191, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0015776 (-) mondo.0008972</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="228656" target="225692">
+            <data key="SUID">502778</data>
+            <data key="shared name">mondo.0015776 (-) mondo.0009112</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0015776</data>
+            <data key="targetDomainId">mondo.0009112</data>
+            <data key="List of shared genes">entrez.8443, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0015776 (-) mondo.0009112</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="219569" target="219581">
+            <data key="SUID">477299</data>
+            <data key="shared name">mondo.0017721 (-) mondo.0017722</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0017721</data>
+            <data key="targetDomainId">mondo.0017722</data>
+            <data key="List of shared genes">entrez.3074, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0017721 (-) mondo.0017722</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="219569" target="219563">
+            <data key="SUID">477257</data>
+            <data key="shared name">mondo.0017721 (-) mondo.0017723</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0017721</data>
+            <data key="targetDomainId">mondo.0017723</data>
+            <data key="List of shared genes">entrez.3074, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0017721 (-) mondo.0017723</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="219569" target="219557">
+            <data key="SUID">477239</data>
+            <data key="shared name">mondo.0017721 (-) mondo.0010006</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0017721</data>
+            <data key="targetDomainId">mondo.0010006</data>
+            <data key="List of shared genes">entrez.3074, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0017721 (-) mondo.0010006</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="225842" target="222824">
+            <data key="SUID">508976</data>
+            <data key="shared name">mondo.0013675 (-) mondo.0017338</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0013675</data>
+            <data key="targetDomainId">mondo.0017338</data>
+            <data key="List of shared genes">entrez.388962, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">4</data>
+            <data key="JaccardIndex">0.25</data>
+            <data key="name">mondo.0013675 (-) mondo.0017338</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226349" target="226340">
+            <data key="SUID">425558</data>
+            <data key="shared name">mondo.0016239 (-) mondo.0009064</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0016239</data>
+            <data key="targetDomainId">mondo.0009064</data>
+            <data key="List of shared genes">entrez.1497, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0016239 (-) mondo.0009064</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226349" target="226337">
+            <data key="SUID">425519</data>
+            <data key="shared name">mondo.0016239 (-) mondo.0009066</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0016239</data>
+            <data key="targetDomainId">mondo.0009066</data>
+            <data key="List of shared genes">entrez.1497, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0016239 (-) mondo.0009066</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226343" target="226349">
+            <data key="SUID">425573</data>
+            <data key="shared name">mondo.0100151 (-) mondo.0016239</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0100151</data>
+            <data key="targetDomainId">mondo.0016239</data>
+            <data key="List of shared genes">entrez.1497, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0100151 (-) mondo.0016239</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226343" target="226340">
+            <data key="SUID">425525</data>
+            <data key="shared name">mondo.0100151 (-) mondo.0009064</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0100151</data>
+            <data key="targetDomainId">mondo.0009064</data>
+            <data key="List of shared genes">entrez.1497, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0100151 (-) mondo.0009064</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226343" target="226337">
+            <data key="SUID">425501</data>
+            <data key="shared name">mondo.0100151 (-) mondo.0009066</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0100151</data>
+            <data key="targetDomainId">mondo.0009066</data>
+            <data key="List of shared genes">entrez.1497, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0100151 (-) mondo.0009066</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="219557" target="219563">
+            <data key="SUID">477215</data>
+            <data key="shared name">mondo.0010006 (-) mondo.0017723</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010006</data>
+            <data key="targetDomainId">mondo.0017723</data>
+            <data key="List of shared genes">entrez.3074, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0010006 (-) mondo.0017723</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226337" target="226340">
+            <data key="SUID">425465</data>
+            <data key="shared name">mondo.0009066 (-) mondo.0009064</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0009066</data>
+            <data key="targetDomainId">mondo.0009064</data>
+            <data key="List of shared genes">entrez.1497, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0009066 (-) mondo.0009064</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="225944" target="228656">
+            <data key="SUID">502895</data>
+            <data key="shared name">mondo.0010823 (-) mondo.0015776</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010823</data>
+            <data key="targetDomainId">mondo.0015776</data>
+            <data key="List of shared genes">entrez.8540, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">3</data>
+            <data key="JaccardIndex">0.3333333333333333</data>
+            <data key="name">mondo.0010823 (-) mondo.0015776</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="225944" target="225935">
+            <data key="SUID">505718</data>
+            <data key="shared name">mondo.0010823 (-) mondo.0006596</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010823</data>
+            <data key="targetDomainId">mondo.0006596</data>
+            <data key="List of shared genes">entrez.8540, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0010823 (-) mondo.0006596</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227969" target="227963">
+            <data key="SUID">506399</data>
+            <data key="shared name">mondo.0009955 (-) mondo.0010002</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0009955</data>
+            <data key="targetDomainId">mondo.0010002</data>
+            <data key="List of shared genes">entrez.9401, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0009955 (-) mondo.0010002</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227969" target="227966">
+            <data key="SUID">506405</data>
+            <data key="shared name">mondo.0009955 (-) mondo.0009039</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0009955</data>
+            <data key="targetDomainId">mondo.0009039</data>
+            <data key="List of shared genes">entrez.9401, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0009955 (-) mondo.0009039</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="227963" target="227966">
+            <data key="SUID">506396</data>
+            <data key="shared name">mondo.0010002 (-) mondo.0009039</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0010002</data>
+            <data key="targetDomainId">mondo.0009039</data>
+            <data key="List of shared genes">entrez.9401, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0010002 (-) mondo.0009039</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="229115" target="229109">
+            <data key="SUID">506696</data>
+            <data key="shared name">mondo.0011339 (-) mondo.0019078</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0011339</data>
+            <data key="targetDomainId">mondo.0019078</data>
+            <data key="List of shared genes">entrez.9897, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0011339 (-) mondo.0019078</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226676" target="217196">
+            <data key="SUID">497081</data>
+            <data key="shared name">mondo.0008709 (-) mondo.0011872</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0008709</data>
+            <data key="targetDomainId">mondo.0011872</data>
+            <data key="List of shared genes">entrez.5873, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0008709 (-) mondo.0011872</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="216305" target="216284">
+            <data key="SUID">499577</data>
+            <data key="shared name">mondo.0012719 (-) mondo.0012517</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012719</data>
+            <data key="targetDomainId">mondo.0012517</data>
+            <data key="List of shared genes">entrez.5660, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0012719 (-) mondo.0012517</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="216305" target="216275">
+            <data key="SUID">499571</data>
+            <data key="shared name">mondo.0012719 (-) mondo.0009590</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0012719</data>
+            <data key="targetDomainId">mondo.0009590</data>
+            <data key="List of shared genes">entrez.5660, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">1</data>
+            <data key="JaccardIndex">1.0</data>
+            <data key="name">mondo.0012719 (-) mondo.0009590</data>
+            <data key="selected">false</data>
+        </edge>
+        <edge source="226673" target="226676">
+            <data key="SUID">493718</data>
+            <data key="shared name">mondo.0009742 (-) mondo.0008709</data>
+            <data key="type">DiseaseSharedGeneDisease</data>
+            <data key="sourceDomainId">mondo.0009742</data>
+            <data key="targetDomainId">mondo.0008709</data>
+            <data key="List of shared genes">entrez.4644, </data>
+            <data key="#shared genes">1</data>
+            <data key="#union genes">2</data>
+            <data key="JaccardIndex">0.5</data>
+            <data key="name">mondo.0009742 (-) mondo.0008709</data>
+            <data key="selected">false</data>
+        </edge>
+    </graph>
+</graphml>
